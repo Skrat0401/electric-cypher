@@ -21,7 +21,7 @@
      6 => (to_unsigned(character'pos('G'), 8)),7 => (to_unsigned(character'pos('H'), 8)),
      8 => (to_unsigned(character'pos('I'), 8)), 9 => (to_unsigned(character'pos('J'), 8)),
      10 => (to_unsigned(character'pos('K'), 8)), 11 => (to_unsigned(character'pos('L'), 8)),
-      12 => (to_unsigned(character'pos('M'), 8)), 
+     12 => (to_unsigned(character'pos('M'), 8)), 
 
      others => (to_unsigned(character'pos(' '), 8)));  
     
